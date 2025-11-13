@@ -5,3 +5,5 @@
 layout: single
 author_profile: true
 ---
+
+I am a **master's student** at New York University majoring in computer engineering. My research interests are in the area of *computer architecture and microelectronics*.
