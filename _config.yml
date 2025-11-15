@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Srijan Gupta
+title: 
 email: srijang@live.com
 description: >- # this means to ignore newlines until "baseurl:"
   "Bears. Beets. Battlestar Galactica."
 twitter_username: Srijan02810403
 github_username: Srijan1972
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: mint
 # search: true
 
 # Build settings
@@ -31,8 +31,8 @@ remote_theme: mmistakes/minimal-mistakes
 # paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-include:
-  - _pages
+# include:
+#   - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -57,22 +57,22 @@ plugins:
 author:
   name   : "Srijan Gupta"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Bears. Beets. Battlestar Galactica."
+  bio    : "Graduate student at NYU interested in computer engineering and microelectronics."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://srijan1972.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Srijan02810403"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Srijan1972"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/srijan1920"
+      url: "https://instagram.com/srijan920"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Srijan02810403"
 
-footer:
+# footer:
   # links:
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
